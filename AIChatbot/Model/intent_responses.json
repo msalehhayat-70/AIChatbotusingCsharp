@@ -1,0 +1,52 @@
+{
+  "greeting": [
+    "Hello! I'm TechBot, your AI technology assistant. Ask me anything about tech \u2014 programming, AI, cybersecurity, networking, and more!",
+    "Hi there! Ready to explore the world of technology? What tech topic can I help you with today?",
+    "Hey! Great to meet you. I can answer questions about AI, programming, hardware, networking, web development, and more!"
+  ],
+  "farewell": [
+    "Goodbye! Keep exploring the world of technology. Happy coding!",
+    "See you later! Feel free to come back anytime with more tech questions.",
+    "Bye! It was great chatting. Keep learning and building great things!"
+  ],
+  "programming": [
+    "Programming is the process of writing instructions that a computer executes. Popular languages: Python (AI/data), Java (enterprise), C# (.NET), JavaScript (web), C++ (systems). Key concepts: variables, loops, functions, OOP, and data structures. What language or concept would you like to explore?",
+    "Coding is an essential skill! I recommend Python for beginners due to its clean syntax. Core concepts include variables (storing data), loops (repeating actions), functions (reusable blocks), and classes (OOP). What specific topic interests you?"
+  ],
+  "artificial_intelligence": [
+    "Artificial Intelligence enables machines to simulate human intelligence. Key branches: Machine Learning (learning from data), Deep Learning (neural networks), NLP (understanding language), and Computer Vision (processing images). This chatbot uses a trained ML model to classify your questions!",
+    "AI is transforming every industry! Machine Learning lets computers learn patterns from data. Deep learning uses multi-layer neural networks for complex tasks. Popular tools include TensorFlow, PyTorch, and scikit-learn. What AI topic would you like to dive into?"
+  ],
+  "cybersecurity": [
+    "Cybersecurity protects digital systems from attacks. Key threats: malware, phishing, ransomware, DDoS, and SQL injection. Best practices: use strong unique passwords, enable 2FA, keep software updated, use a VPN on public WiFi, and never click suspicious links. What security topic would you like to explore?",
+    "Staying secure online is critical! Use a password manager for unique passwords, enable multi-factor authentication, keep your OS patched, use HTTPS websites, and regularly back up your data. What cybersecurity concept interests you?"
+  ],
+  "networking": [
+    "Computer networking connects devices to share data. The internet uses TCP/IP protocols. Key concepts: IP addresses (device identifiers), DNS (translates domains to IPs), routers (direct traffic), HTTP/HTTPS (web protocols), and VPNs (encrypted tunnels). The OSI model has 7 layers explaining how data travels. What networking topic interests you?",
+    "Networks are the backbone of modern computing! IPv4 uses 32-bit addresses while IPv6 uses 128-bit. TCP is reliable (checks delivery), UDP is fast (no guarantee). Firewalls filter traffic, and subnetting divides networks into segments. What would you like to know?"
+  ],
+  "hardware": [
+    "Computer hardware is the physical side of computing. The CPU processes instructions (Intel/AMD/Apple M-series). RAM provides fast temporary storage (16GB is standard). SSDs are much faster than HDDs. The GPU handles graphics and AI workloads. The motherboard connects everything. What hardware topic interests you?",
+    "Key PC components: CPU (the brain), RAM (fast temporary memory), SSD (fast storage), GPU (for gaming/AI), PSU (power supply), and cooling systems. For AI/ML work, NVIDIA GPUs with CUDA are highly recommended. What do you want to know?"
+  ],
+  "software": [
+    "Software tells hardware what to do. System software (OS: Windows, Linux, macOS) manages hardware. Application software (browsers, editors, games) serves user needs. Git/GitHub tracks code changes. DevOps practices automate software delivery. What software topic would you like to explore?",
+    "The software world is vast! OSes like Windows 11, Ubuntu Linux, and macOS are the foundation. Development tools include VS Code, Visual Studio, and IntelliJ. Package managers (npm, pip, apt) manage dependencies. What interests you?"
+  ],
+  "web_development": [
+    "Web development builds websites and web apps. Frontend (HTML for structure, CSS for styling, JavaScript for interactivity) is what users see. Backend (Node.js, ASP.NET, Django) handles server logic. REST APIs connect frontend and backend. React, Angular, and Vue.js speed up development. What web tech interests you?",
+    "The web is built on HTML, CSS, and JavaScript. Modern frameworks like React and Vue.js make frontend powerful. For backend, Node.js, Python (Django/Flask), C# (ASP.NET), and PHP (Laravel) are popular. Databases and cloud hosting complete the picture. What aspect interests you?"
+  ],
+  "database": [
+    "Databases store and organize application data. SQL databases (MySQL, PostgreSQL, SQL Server) use structured tables \u2014 great for complex queries. NoSQL (MongoDB, Redis, Cassandra) offers flexibility for unstructured data. ACID properties ensure reliable transactions. Key SQL operations: SELECT, INSERT, UPDATE, DELETE, and JOINs. What database topic interests you?",
+    "Every application needs data storage! Relational databases use tables with SQL queries. NoSQL options like MongoDB store JSON-like documents. Redis is an in-memory store for caching. PostgreSQL is powerful and feature-rich. Data warehouses handle analytics at scale. What would you like to explore?"
+  ],
+  "mobile_development": [
+    "Mobile development creates apps for smartphones. Native apps (Swift for iOS, Kotlin for Android) offer best performance. Cross-platform frameworks like Flutter (Dart) and React Native (JavaScript) target both platforms with one codebase. Firebase provides backend services for mobile apps. What mobile topic interests you?",
+    "Building mobile apps is in huge demand! Flutter is popular for beautiful cross-platform apps. React Native lets you use JavaScript. For native apps, Kotlin is preferred for Android and Swift for iOS. What do you want to learn about mobile development?"
+  ],
+  "cloud_computing": [
+    "Cloud computing delivers computing resources over the internet. Top providers: AWS (Amazon), Azure (Microsoft), GCP (Google). Service models: IaaS (raw infrastructure), PaaS (platform for devs), SaaS (ready-to-use software). Docker packages apps for portability and Kubernetes orchestrates them at scale. What cloud topic interests you?",
+    "The cloud powers modern software! Key concepts: virtual machines, containers, serverless (run code without managing servers), and auto-scaling. Terraform automates infrastructure. CI/CD pipelines (GitHub Actions, Jenkins) automate deployment. What cloud topic interests you?"
+  ]
+}
